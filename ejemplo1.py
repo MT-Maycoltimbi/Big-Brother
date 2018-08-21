@@ -4,7 +4,8 @@ def max (n1, n2):
     elif n2 < n1:
         print (n1)
     else:
-        print ("Son demasiado iguales")
+        print ("Son demaciados redundantes")
+        
 
 max(5, 5)
 
